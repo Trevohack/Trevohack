@@ -11,11 +11,11 @@ I'm a full-time software engineer and cyber security engineer.
 I develop apps,  deploy them, and change them later, that's me 
 Sometimes, I hack some machines in HackTheBox or TryHackMe 
 
-*🎮 I'm currently working on [InsightHunter](http://https://github.com/SpaceShuttleIO/InsightHunter)
-*✉️  You can contact me at [spaceshuttle.io.all@gmail.com](mailto:spaceshuttle.io.all@gmail.com)
-*🧠  I'm learning Machine learning & Data Science 
-*🤝  I'm open to collaborating on Sherlock, Metasploit
-*⚡  I'm secretly Mr.Robot but, keep it as a secret between you and me!
+* 🎮 I'm currently working on [InsightHunter](http://https://github.com/SpaceShuttleIO/InsightHunter)
+* ✉️  You can contact me at [spaceshuttle.io.all@gmail.com](mailto:spaceshuttle.io.all@gmail.com)
+* 🧠  I'm learning Machine learning & Data Science 
+* 🤝  I'm open to collaborating on Sherlock, Metasploit
+* ⚡  I'm secretly Mr.Robot but, keep it as a secret between you and me!
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Spaceshuttle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Spaceshuttle ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Spaceshuttle) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Spaceshuttle) 

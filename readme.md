@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Treveen Bastian (Space Shuttle)
 ======================================================================================================================================================= 
 
-# Software Engineer & Cyber Security Researcher
----------------------------------------------
+# Software Engineer & Cyber Security Researcher 
+--------------------------------------------- 
 
 I've been coding for the last 5 years Coding has been my friend since ... I work as a software engineer currently
 
@@ -26,8 +26,6 @@ Sometimes, I hack some machines in HackTheBox or TryHackMe
 ![](https://github-readme-stats.vercel.app/api?username=SpaceShuttleIO&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SpaceShuttleIO&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceShuttleIO&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<script src="https://tryhackme.com/badge/1517726"></script>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

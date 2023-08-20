@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3449F7&width=435&lines=Hi%2C+I'm+Trev+%F0%9F%A4%98" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3449F7&width=435&lines=Hi%2C+I'm+Trev+%F0%9F%A4%98;I+am+a+Programmer+%26+a+Hacker+" alt="Typing SVG" /></h1>
 
 ![thm-banner](https://github.com/Trevohack/Trevohack/assets/136177431/9e374194-5693-4a6c-b4cd-10602e5583df)
 

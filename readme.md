@@ -38,21 +38,21 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/z0d1ac"><img height="58" title="TryHackMe Profile" alt="TryHackMe z0d1ac Profile" src="https://tryhackme-badges.s3.amazonaws.com/z0d1ac.png"></a>
+  <a target="_blank" href="https://tryhackme.com/p/Trevohack"><img height="58" title="TryHackMe Profile" alt="TryHackMe Trevohack Profile" src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png"></a>
 </div>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/mr-robot"	         ><img title="Mr. Robot"      alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/mrrobot.svg"                 width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/terminaled"           ><img title="cat linux.txt"  alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/linux.svg"                   width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/ohsint"               ><img title="OhSINT"         alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/ohsint.svg"                  width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/hash-cracker"         ><img title="Hash Cracker"   alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/hashcracker.svg"             width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/koth-game"            ><img title="King"           alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/king.svg"                    width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/7-day-streak"         ><img title="7 Day Streak"   alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak7.svg"                 width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/mr-robot"	         ><img title="Mr. Robot"      alt="TryHackMe badge 1" src="https://tryhackme.com/img/badges/mrrobot.svg"                 width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/terminaled"           ><img title="cat linux.txt"  alt="TryHackMe badge 2" src="https://tryhackme.com/img/badges/linux.svg"                   width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/ohsint"               ><img title="OhSINT"         alt="TryHackMe badge 3" src="https://tryhackme.com/img/badges/ohsint.svg"                  width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/hash-cracker"         ><img title="Hash Cracker"   alt="TryHackMe badge 4" src="https://tryhackme.com/img/badges/hashcracker.svg"             width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/koth-game"            ><img title="King"           alt="TryHackMe badge 5" src="https://tryhackme.com/img/badges/king.svg"                    width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/7-day-streak"         ><img title="7 Day Streak"   alt="TryHackMe badge 6" src="https://tryhackme.com/img/badges/streak7.svg"                 width="100"></a>
 </div>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/intro-to-pentesting"  ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/linux-privesc"        ><img title="Linux PrivEsc" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/linuxprivesc.svg"             width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/blue"                 ><img title="Blue"          alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/blue.svg"                     width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/z0d1ac/badges/owasp-10"             ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/owasptop10.svg"               width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/intro-to-pentesting"  ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/linux-privesc"        ><img title="Linux PrivEsc" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/linuxprivesc.svg"             width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/blue"                 ><img title="Blue"          alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/blue.svg"                     width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/owasp-10"             ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/owasptop10.svg"               width="100"></a>
 </div>
 <br>
 
@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <a target="_blank" href="#"><img src=".github/images/z0d1ac.png" width="33"></a>
+  <a target="_blank" href="#"><img src=".github/images/Trevohack.png" width="33"></a>
 </div>
 
 <!--

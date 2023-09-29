@@ -48,20 +48,9 @@
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/blue"                 ><img title="Blue"          alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/blue.svg"                     width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/owasp-10"             ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/owasptop10.svg"               width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/hololive"             ><img title="Holo Live"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/hololive.svg"               width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/metasploitable"             ><img title="Metasploitable"  alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/metasploitable.svg"               width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/adversary"           >img title="Metasploitable"  alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/adversary.svg"               width="100"></a>
 </div>
 <br>
-
-<!-- Linkedin badge
-<div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/miguel-carvalho-dev"><img src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/linkedin.png" width="250"/>
-</div>
-
-<br>
--->
-
-
-<!-- Visitor's count -->
 
 <div align="center">
   <a target="_blank" href="#"><img src=".github/images/Trevohack.png" width="33"></a>

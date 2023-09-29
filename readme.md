@@ -47,7 +47,8 @@
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/linux-privesc"        ><img title="Linux PrivEsc" alt="TryHackMe badge 7" src="https://tryhackme.com/img/badges/linuxprivesc.svg"             width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/blue"                 ><img title="Blue"          alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/blue.svg"                     width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/owasp-10"             ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/owasptop10.svg"               width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/hololive"             ><img title="Holo Live"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/hololive.svg"               width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/hololive"             ><img title="Holo Live"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/hololive.svg"               width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/metasploitable"             ><img title="Metasploitable"  alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/metasploitable.svg"               width="100"></a>
 </div>
 <br>
 
@@ -59,12 +60,6 @@
 <br>
 -->
 
-<!-- Digital Ocean Ref badge -->
-<div align="center">
-  <a target="_blank" href="https://www.digitalocean.com/?refcode=2341d6802900&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-    <img title="Get $200 to try DigitalOcean" alt="Get $200 to try DigitalOcean" src="http://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg"/>
-  </a>
-</div>
 
 <!-- Visitor's count -->
 

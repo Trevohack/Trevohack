@@ -48,8 +48,6 @@
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/blue"                 ><img title="Blue"          alt="TryHackMe badge 8" src="https://tryhackme.com/img/badges/blue.svg"                     width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/owasp-10"             ><img title="OWASP Top 10"  alt="TryHackMe badge 9" src="https://tryhackme.com/img/badges/owasptop10.svg"               width="100"></a>
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/hololive"             ><img title="Holo Live"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/hololive.svg"               width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/Trevohack/badges/adversary"           >img title="Metasploitable"  alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/adversary.svg"               width="100"></a>
-</div>
 <br>
 
 <div align="center">

@@ -7,34 +7,26 @@
 <br><br>🔭 I'm currently working on DynastyPersist.<br>🤘 I'm learning C++ and LKM dev these days<br>☠️ I'm secretly Mr.Robot, keep it a secret! <br>
 
 <div align="center">
-  <a target="_blank" href="#"><img src="https://i.postimg.cc/15CbzzJh/pngwing-com.png" width="33"></a>
+  <a target="_blank" href="#"><img src="https://i.postimg.cc/15CbzzJh/pngwing-com.png" width="99"></a>
 </div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Trevohack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trevohack&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevohack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- Heading
+
 <div align="center">
-  <h1> Hello world <img src=".github/images/hand_wave.gif" alt="hand_wave.gif" width="30"/></h1>
-</div><br>
--->
+  <a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trevohack&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
+  <a href="#"><img align="center" width="43.7%" title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevohack&langs_count=10&layout=compact&hide=HTML,CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/></a>
+</div>
 
 <br>
 
-<!-- Snake animation -->
 <div align="center">
   <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
   <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
 </div>
 
 <br>
-
-<!-- TryHackMe Profile and Badges -->
 <div align="center">
-  <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
   <a target="_blank" href="https://tryhackme.com/p/Trevohack"><img height="58" title="TryHackMe Profile" alt="TryHackMe Trevohack Profile" src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png"></a>
 </div>
 <div align="center">
@@ -53,9 +45,6 @@
   <a target="_blank" href="https://tryhackme.com/Trevohack/badges/hololive"             ><img title="Holo Live"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/hololive.svg"               width="100"></a>
 <br>
 
-<!--
-- 📫 How to reach me: TODO
--->
 
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Trev+%F0%9F%91%8B;Hacker%2C+Gamer%2C+Coder%2C+Friend+...+;Linux+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0041F7&center=true&width=435&lines=Hey%2C+I'm+Trev;Hacker%2C+Gamer%2C+Coder%2C+Friend+...+;Arch+user+%F0%9F%98%88" alt="Typing SVG" /></a></h1>
 
 
 <div align="center">

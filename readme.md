@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <a target="_blank" href="#"><img src="https://i.postimg.cc/15CbzzJh/pngwing-com.png" width="200"></a>
+  <a target="_blank" href="#"><img src="https://i.postimg.cc/SxZCHyW0/5927911.gif" width="200"></a>
 </div>
 
 # 💫 About Me:

@@ -1,10 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0041F7&center=true&width=435&lines=Hey%2C+I'm+Trev;Hacker%2C+Gamer%2C+Coder%2C+Friend+...+;Arch+user+%F0%9F%98%88" alt="Typing SVG" /></a></h1>
 
-
-<div align="center">
-  <a target="_blank" href="#"><img src="https://i.postimg.cc/SxZCHyW0/5927911.gif" width="200"></a>
-</div>
-
 # 💫 About Me:
 <br><br>🔭 I'm currently working on DynastyPersist.<br>🤘 I'm learning C++ and LKM dev these days<br>☠️ I'm secretly Mr.Robot, keep it a secret! <br>
 

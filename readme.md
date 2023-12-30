@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0041F7&center=true&width=435&lines=Hey%2C+I'm+Trev;Hacker%2C+Gamer%2C+Coder%2C+Friend+...+;Arch+user+%F0%9F%98%88" alt="Typing SVG" /></a></h1>
+![image](https://github.com/Trevohack/Trevohack/assets/136177431/f551d9b2-d18f-41a2-911a-8f719a43e042)
   
 <p align="center">
   I'm all about Cyber Security —it's my passion!<br><br>

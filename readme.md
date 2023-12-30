@@ -1,5 +1,5 @@
-![image](https://github.com/Trevohack/Trevohack/assets/136177431/f551d9b2-d18f-41a2-911a-8f719a43e042)
-  
+![image](https://github.com/Trevohack/Trevohack/assets/136177431/6f2aef38-afa8-4dd5-83f3-a26be139f7e6)
+
 <p align="center">
   I'm all about Cyber Security —it's my passion!<br><br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br>

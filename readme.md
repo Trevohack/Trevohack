@@ -10,7 +10,7 @@
 ## 💫 About Me 
 
 - Certified with `eJPT` and `PNPT`!
-- When it comes to hacking, I'm all in! KOTH? Battlegrounds? I dominate that!
+- When it comes to hacking, I'm all in! KOTH? Battlegrounds? I dominate that! (KOTH WIN RATE: 95%) (HBG WIN RATE 90%)
 - Plus, I'm slaying in <b>Call of Duty: WWII</b> and hitting the hoops in <b>NBA 2K</b>. 
 - That's me – Cybersecurity guru and gaming enthusiast, all rolled into one! 
 

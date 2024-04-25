@@ -11,7 +11,7 @@
 
 ## 💫 About Me 
 
-<picture><img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJiZ2d0YTR0dnU4c3N6b3cxZnlzMzc5djR6bXlzNGg4dGswOGc4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"></picture>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJiZ2d0YTR0dnU4c3N6b3cxZnlzMzc5djR6bXlzNGg4dGswOGc4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <br>
 

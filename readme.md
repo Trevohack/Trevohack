@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
   I'm all about Cyber Security —it's my passion!<br><br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br>
 </p>
@@ -19,6 +19,7 @@
   - 👑 Plays TryHackMe's KOTH (World Top 50)
   - ⚔️ Plays HackTheBox Battlegrounds (Win Rate: 90%)
   - 🏁 Participates in CTFs, specializing in `pwn`, `reversing`, `web`
+  - ⚡ Regularly authors security-focused blogs, write-ups, and software programs
 
 * 🎮 Gamer
   - 🥷 Plays GTA V
@@ -28,11 +29,6 @@
  
 <br>
 
-## Profiles
-
-[![THM](https://tryhackme-badges.s3.amazonaws.com/Trevohack.png)](https://tryhackme.com/p/Trevohack)
-[![HTB](https://www.hackthebox.com/badge/image/1617581)](https://app.hackthebox.com/profile/1617581)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Trevohack)
 
 ## Tech Stack 
 
@@ -40,6 +36,15 @@
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+
+
+
+## Profiles
+
+<div align="center">
+ <a href="https://tryhackme.com/p/Trevohack"><img src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png" alt="thm"></a>
+ <a href="https://app.hackthebox.com/profile/1617581"><img src="https://www.hackthebox.com/badge/image/1617581" alt="htb"></a>
+</div>
 
 ## GitHub Stats
 

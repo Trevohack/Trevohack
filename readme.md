@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
   I'm all about Cyber Security —it's my passion!<br><br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br>
 </p>

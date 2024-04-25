@@ -1,6 +1,8 @@
 ![image](https://github.com/Trevohack/Trevohack/assets/136177431/6f2aef38-afa8-4dd5-83f3-a26be139f7e6)
 
+
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
   I'm all about Cyber Security —it's my passion!<br><br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br>
 </p>
@@ -9,10 +11,28 @@
 
 ## 💫 About Me 
 
-- Certified with `eJPT` and `PNPT`!
-- When it comes to hacking, I'm all in! KOTH? Battlegrounds? I dominate that! (KOTH WIN RATE: 95%) (HBG WIN RATE 90%)
-- Plus, I'm slaying in <b>Call of Duty: WWII</b> and hitting the hoops in <b>NBA 2K</b>. 
-- That's me – Cybersecurity guru and gaming enthusiast, all rolled into one! 
+<picture> <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJiZ2d0YTR0dnU4c3N6b3cxZnlzMzc5djR6bXlzNGg4dGswOGc4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"></picture>
+
+<br>
+
+* 😎 Security Enthusiast
+  - 👑 Plays TryHackMe's KOTH (World Top 50)
+  - ⚔️ Plays HackTheBox Battlegrounds (Win Rate: 90%)
+  - 🏁 Participates in CTFs, specializing in `pwn`, `reversing`, `web`
+
+* 🎮 Gamer
+  - 🥷 Plays GTA V
+  - ☠️ Plays CS:GO 
+
+ 
+ 
+<br>
+
+## Profiles
+
+[![THM](https://tryhackme-badges.s3.amazonaws.com/Trevohack.png)](https://tryhackme.com/p/Trevohack)
+[![HTB](https://www.hackthebox.com/badge/image/1617581)](https://app.hackthebox.com/profile/1617581)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Trevohack)
 
 ## Tech Stack 
 
@@ -37,9 +57,4 @@
 
 <br>
 
-## Profiles
-
-[![THM](https://tryhackme-badges.s3.amazonaws.com/Trevohack.png)](https://tryhackme.com/p/Trevohack)
-[![HTB](https://www.hackthebox.com/badge/image/1617581)](https://app.hackthebox.com/profile/1617581)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Trevohack)
 ---

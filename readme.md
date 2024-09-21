@@ -14,7 +14,7 @@
 <br>
 
 * 😎 Security Enthusiast
-  - 👑 Plays TryHackMe's KOTH (World Top 20) 
+  - 👑 Plays TryHackMe's KOTH (World Top 14th)   
   - ⚔️ Plays HackTheBox Battlegrounds (Win Rate: 90%) 
   - 🏁 Participates in CTFs, specializing in `pwn`, `reversing`, `web`
   - ⚡ Regularly authors security-focused blogs, write-ups, and software programs

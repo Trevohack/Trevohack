@@ -1,4 +1,5 @@
-![image](https://github.com/Trevohack/Trevohack/assets/136177431/6f2aef38-afa8-4dd5-83f3-a26be139f7e6)
+![image](https://github.com/user-attachments/assets/484f7a52-561b-40a1-9a2b-4e51a4dddd00)
+
 
 
 <p align="center">

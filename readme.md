@@ -1,9 +1,14 @@
 
 ![image](https://github.com/user-attachments/assets/484f7a52-561b-40a1-9a2b-4e51a4dddd00) 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%94%A5+ELITE+PENETRATION+TESTER+%F0%9F%94%A5;%E2%9A%A1+CYBER+WARFARE+SPECIALIST+%E2%9A%A1;%F0%9F%92%80+BUG+BOUNTY+HUNTER+%F0%9F%92%80;%F0%9F%8F%86+CTF+CHAMPION+%F0%9F%8F%86" alt="Elite Hacker"/>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
+  I'm all about Cyber Security —it's my passion!<br>
+  Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ACCESSING%20MAINFRAME...&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlign=50&fontAlignY=40"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ACCESSING%20MAINFRAME...&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlign=50&fontAlignY=40"/>
+
 
 </div>
 

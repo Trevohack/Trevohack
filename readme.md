@@ -1,64 +1,197 @@
-![image](https://github.com/user-attachments/assets/484f7a52-561b-40a1-9a2b-4e51a4dddd00)
 
+![image](https://github.com/user-attachments/assets/484f7a52-561b-40a1-9a2b-4e51a4dddd00) 
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=120&lines=%F0%9F%94%A5+ELITE+PENETRATION+TESTER+%F0%9F%94%A5;%E2%9A%A1+CYBER+WARFARE+SPECIALIST+%E2%9A%A1;%F0%9F%92%80+BUG+BOUNTY+HUNTER+%F0%9F%92%80;%F0%9F%8F%86+CTF+CHAMPION+%F0%9F%8F%86" alt="Elite Hacker"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
-  I'm all about Cyber Security —it's my passion!<br><br>
-  Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ACCESSING%20MAINFRAME...&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlign=50&fontAlignY=40"/>
+
+</div>
 
 ---
 
-## 💫 About Me 
+## 🕷️ **THREAT INTELLIGENCE REPORT** 🕷️
 
-<br>
+<details>
+<summary>🔓 <b>CLASSIFIED: Click to Decrypt</b> 🔓</summary>
 
-* 😎 Security Enthusiast
-  - 👑 Plays TryHackMe's KOTH (World Top 10, Win Rate: 99%)   
-  - ⚔️ Plays HackTheBox Battlegrounds (Win Rate: 90%) 
-  - 🏁 Participates in CTFs, specializing in `pwn`, `reversing`, `web`
-  - ⚡ Regularly authors security-focused blogs, write-ups, and software programs
+```bash
+┌─[root@kali]─[~]
+└──╼ $ whoami
+TrevoHack - Elite Cybersecurity Operative
 
-* 🎮 Gamer
-  - 🥷 Plays GTA V
-  - ☠️ Plays CS:GO 
+┌─[root@kali]─[~] 
+└──╼ $ cat /etc/shadow | grep skills
+⚡ Advanced Persistent Threat (APT) Analysis
+🔍 Digital Forensics & Incident Response
+🛡️ Red Team Operations & Social Engineering  
+💥 Zero-Day Exploit Development
+🎯 OSINT & Reconnaissance Mastery
+🔐 Cryptographic Protocol Breaking
+🌐 Network Penetration & Lateral Movement
+📡 Wireless Security & RF Hacking
+```
 
- 
- 
-<br>
-
-
-## Tech Stack 
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![VSCode](https://img.shields.io/static/v1?style=for-the-badge&message=VSCode&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-
-
-
-## Profiles
-
-<div align="center">
- <a href="https://tryhackme.com/p/Trevohack"><img src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png" alt="thm"></a>
- <a href="https://app.hackthebox.com/profile/1617581"><img src="https://www.hackthebox.com/badge/image/1617581" alt="htb"></a>
-</div>
-
-## GitHub Stats
-
-<div align="center">
-  <a href="#"><img align="center" width="55%" title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Trevohack&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647#gh-dark-mode-only"/></a>
-  <a href="#"><img align="center" width="43.7%" title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevohack&langs_count=10&layout=compact&hide=HTML,CSS,SCSS&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647#gh-dark-mode-only"/></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img alt="Snake animation dark mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-snake-dark.svg#gh-dark-mode-only"/>
-  <img alt="Snake animation light mode" src="https://raw.githubusercontent.com/migueltc13/migueltc13/main/.github/images/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
-
-<br>
+</details>
 
 ---
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Trevohack&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=7" />
+</div>
+
+---
+
+## 🔥 **ARSENAL & WEAPONRY** 
+
+<div align="center">
+
+### 💀 **EXPLOITATION FRAMEWORKS**
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF0000?style=for-the-badge&logo=cobaltstrike&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+
+### ⚔️ **PROGRAMMING ARSENAL**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛡️ **OPERATING SYSTEMS**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_Security-54C7EC?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🔧 **HACKING TOOLS**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack](https://img.shields.io/badge/Aircrack--ng-003366?style=for-the-badge&logo=wifi&logoColor=white)
+![John](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logo=password&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF6B35?style=for-the-badge&logo=hashcat&logoColor=white)
+![Sqlmap](https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 **CYBER PROFILES & ACHIEVEMENTS**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png" alt="TryHackMe Profile" width="300"/>
+
+**🔥 TryHackMe 🔥**
+- 🏆 **KOTH Legend** (Top 10 Global)
+- 👑 **99% Win Rate** 
+- ⚡ **200+ Rooms Pwned**
+</td>
+<td align="center" width="50%">
+<img src="https://www.hackthebox.com/badge/image/1617581" alt="HackTheBox Profile" width="300"/>
+
+**💀 HackTheBox 💀**
+- ⚔️ **Pro Hacker Status**
+- 🚩 **80+ Machines Owned** 
+</td>
+</tr>
+</table>
+
+<a href="https://www.credly.com/users/trevohack">
+<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges"/>
+</a>
+<a href="https://cyberdefenders.org/u/trevohack">
+<img src="https://img.shields.io/badge/CyberDefenders-1B365D?style=for-the-badge&logo=shield&logoColor=white" alt="CyberDefenders"/>
+</a>
+
+</div>
+
+---
+
+## 📊 **DIGITAL WARFARE ANALYTICS**
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Trevohack&show_icons=true&count_private=true&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=000000&border_color=00FF41&icon_color=FF0000&hide_border=false&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Trevohack&theme=chartreuse-dark&background=000000&border=00FF41&stroke=00FF41&ring=FF0000&fire=FF0000&currStreakLabel=00FF41"/>
+</div>
+
+<div align="center">
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trevohack&layout=compact&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=000000&border_color=00FF41&hide=html,css&langs_count=12"/>
+</div>
+
+---
+
+## 🌐 **GLOBAL CYBER ACTIVITY**
+
+<div align="center">
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Trevohack&bg_color=000000&color=00FF41&line=FF0000&point=00FF41&area=true&hide_border=false&theme=high-contrast" width="100%"/>
+</div>
+
+---
+
+
+## 💀 **RECENT ACTIVITES**
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trevohack&repo=Kits&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=000000&border_color=00FF41)](https://github.com/Trevohack/Kits)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trevohack&repo=R0DDY&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&bg_color=000000&border_color=00FF41)](https://github.com/Trevohack/R0DDY)
+
+</div>
+
+---
+
+## 🔥 **CONTRIBUTION HEATMAP**
+
+<div align="center">
+<img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Trevohack/Trevohack/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+<img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Trevohack/Trevohack/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+</div>
+
+---
+
+## 🌟 **CURRENT MISSIONS**
+
+<div align="center">
+
+```diff
++ 🎯 Developing custom red team implants
++ 💀 Research on AI-powered exploit generation  
++ 🔥 Building next-gen SIEM bypass techniques
++ ⚡ Creating advanced phishing frameworks
++ 🛡️ Reverse engineering APT malware samples
+```
+
+</div>
+
+---
+
+## 📡 **SECURE COMMUNICATIONS**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anti_system)
+
+**🔐 PGP Key:** `0x1337DEADBEEF`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=ACCESS%20GRANTED&fontSize=25&fontColor=00FF41&animation=twinkling&fontAlign=50&fontAlignY=65"/>
+
+```
+🔥 Remember: "The quieter you become, the more you are able to hear" 🔥
+```
+
+<img src="https://komarev.com/ghpvc/?username=Trevohack&label=Profile%20Views&color=00FF41&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Trevohack?label=Followers&style=for-the-badge&color=00FF41&labelColor=000000"/>
+
+</div>

@@ -150,15 +150,6 @@ TrevoHack - Elite Cybersecurity Operative
 
 ---
 
-## 🔥 **CONTRIBUTION HEATMAP**
-
-<div align="center">
-<img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Trevohack/Trevohack/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-<img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Trevohack/Trevohack/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</div>
-
----
-
 ## 🌟 **CURRENT MISSIONS**
 
 <div align="center">

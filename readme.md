@@ -5,7 +5,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
   I'm all about Cyber Security —it's my passion!<br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ACCESSING%20MAINFRAME...&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlign=50&fontAlignY=40"/>
 </p>
 
 

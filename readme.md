@@ -3,39 +3,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
-  I'm all about Cyber Security —it's my passion!<br>
+  I'm all about Cyber Security it's my passion!<br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br><br>
 </p>
 
 
 
 </div>
-
----
-
-## 🕷️ **THREAT INTELLIGENCE REPORT** 🕷️
-
-<details>
-<summary>🔓 <b>CLASSIFIED: Click to Decrypt</b> 🔓</summary>
-
-```bash
-┌─[root@kali]─[~]
-└──╼ $ whoami
-TrevoHack - Elite Cybersecurity Operative
-
-┌─[root@kali]─[~] 
-└──╼ $ cat /etc/shadow | grep skills
-⚡ Advanced Persistent Threat (APT) Analysis
-🔍 Digital Forensics & Incident Response
-🛡️ Red Team Operations & Social Engineering  
-💥 Zero-Day Exploit Development
-🎯 OSINT & Reconnaissance Mastery
-🔐 Cryptographic Protocol Breaking
-🌐 Network Penetration & Lateral Movement
-📡 Wireless Security & RF Hacking
-```
-
-</details>
 
 ---
 
@@ -130,7 +104,7 @@ TrevoHack - Elite Cybersecurity Operative
 
 ---
 
-## 🌐 **GLOBAL CYBER ACTIVITY**
+## **GLOBAL CYBER ACTIVITY**
 
 <div align="center">
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Trevohack&bg_color=000000&color=00FF41&line=FF0000&point=00FF41&area=true&hide_border=false&theme=high-contrast" width="100%"/>
@@ -139,7 +113,7 @@ TrevoHack - Elite Cybersecurity Operative
 ---
 
 
-## 💀 **RECENT ACTIVITES**
+## **RECENT ACTIVITES**
 
 <div align="center">
 
@@ -148,21 +122,8 @@ TrevoHack - Elite Cybersecurity Operative
 
 </div>
 
----
 
-## 🌟 **CURRENT MISSIONS**
 
-<div align="center">
-
-```diff
-+ 🎯 Developing custom red team implants
-+ 💀 Research on AI-powered exploit generation  
-+ 🔥 Building next-gen SIEM bypass techniques
-+ ⚡ Creating advanced phishing frameworks
-+ 🛡️ Reverse engineering APT malware samples
-```
-
-</div>
 
 ---
 

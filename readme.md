@@ -15,8 +15,7 @@
 <br>
 
 * 😎 Security Enthusiast
-  - 👑 Plays TryHackMe's KOTH (World Top 14th)   
-  - 👑 Plays TryHackMe's KOTH (World Top 10, Win Rate: 99%)   
+  - 👑 Plays TryHackMe's KOTH (World Top 7th,Win Rate: 99%) 
   - ⚔️ Plays HackTheBox Battlegrounds (Win Rate: 90%) 
   - 🏁 Participates in CTFs, specializing in `pwn`, `reversing`, `web`
   - ⚡ Regularly authors security-focused blogs, write-ups, and software programs
@@ -24,7 +23,6 @@
 * 🎮 Gamer
   - 🥷 Plays GTA V
   - ☠️ Plays CS:GO 
-
 
 
 <br>
@@ -42,7 +40,7 @@
 ## Profiles
 
 <div align="center">
- <a href="https://tryhackme.com/p/Trevohack"><img src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png" alt="thm"></a>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Trevohack.png" alt="thm"/> 
  <a href="https://app.hackthebox.com/profile/1617581"><img src="https://www.hackthebox.com/badge/image/1617581" alt="htb"></a>
 </div>
 

@@ -1,8 +1,10 @@
-![image](https://github.com/user-attachments/assets/484f7a52-561b-40a1-9a2b-4e51a4dddd00) 
+ 
 
 
 
 <p align="center">
+  <a href=""><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhuYTdvaHhraWo0bDFpbjJ3d2F2dmhjdG83NWs2NzZwZjBxNTQ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSemvqMIRY3jMcvpd2/giphy.gif" alt="image" /></a>
+  <br> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
   I'm all about Cyber Security —it's my passion!<br><br>
   Mostly into <b><i>TryHackMe, HackTheBox and CTF Tournaments</i></b><br>

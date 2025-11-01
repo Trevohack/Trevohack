@@ -1,9 +1,9 @@
- 
+
 
 
 
 <p align="center">
-  <a href=""><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhuYTdvaHhraWo0bDFpbjJ3d2F2dmhjdG83NWs2NzZwZjBxNTQ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MSemvqMIRY3jMcvpd2/giphy.gif" alt="image" /></a>
+  <a href=""><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXlwMDk3enA4dzh1NGpmZGN3MzAzdDU1NWhrdjZ0ZTBpMXFkM2ozcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LoBwYBdIztLgIYujMC/giphy.gif" alt="image" /></a> 
   <br> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Cyber+Security+Enthusiast;Coder;Bug+Hunter;Gamer" alt="Typing SVG" /></a><br> 
   I'm all about Cyber Security —it's my passion!<br><br>
